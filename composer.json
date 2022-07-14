@@ -1,0 +1,27 @@
+{
+    "name": "drupal/site",
+    // ...
+    "require": {
+        // ...
+    },
+    "require-dev": {
+        // ...
+        "axelerant/db-docker": "^1.0"
+    },
+    "extra": {
+        "dbdocker": {
+            "docker-image-name": "auto",
+            "docker-tag": "auto",
+            "docker-base": {
+                "base-flavor": "bitnami",
+                "image": "bitnami/mariadb:10.4",
+                "user": "drupal8",
+                "password": "drupal8",
+                "database": "drupal8"
+            },
+            "git-remote": "origin",
+            "db-source": "",
+            "no-push": false
+        }
+    }
+}
