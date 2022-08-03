@@ -22,7 +22,7 @@
                                                        return $data;
                                                        }
                                                     
-                                                       $html = get_data('http://marketdata.set.or.th/mkt/marketsummary.do?language=en&country=US');
+                                                       $html = get_data('https://classic.set.or.th/mkt/marketsummary.do?language=en&country=US');
                                                        $dom = new DOMDocument();
                                                        $dom->validateOnParse = true;
                                                        @$dom->loadHTML($html);
