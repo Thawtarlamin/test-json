@@ -1,0 +1,49 @@
+[{"league":"Premier League",
+"date":"Sun, Aug 14",
+"time":"end",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"teams":"Nottm Forest Vs West Hum",
+"hteam":"Nottm",
+"ateam":"West Hum",
+"link":[ { "type": "1080p", 
+"livelink":"https://livestream-2.socialstreaming.tv/live/62f8e5c72c1546001d39f1a7/62f8e5c72c1546001d39f1a7.m3u8"        },
+ { "type": "720p", 
+"livelink":"https://live-ak.vimeocdn.com:443/exp=1660484383~acl=%2F0bbbfa16-9737-4386-b8bd-a73010399799%2F%2A~hmac=8f1a7ef10095b7207cd25d0c55588117a34aaeb2e56adaa43506fb9d8c7b3f4b/0bbbfa16-9737-4386-b8bd-a73010399799/chunklist_b6256000.m3u8" 
+  },
+
+{ "type": "360p", 
+"livelink":"https://c52a36a10d57.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.005990487620.channel.TdBExqxZmpVG.m3u8"
+  }
+,
+{ "type": "SD", 
+"livelink":"https://c52a36a10d57.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.005990487620.channel.TdBExqxZmpVG.m3u8"
+  }
+
+  ]
+  },
+  {"league":"Premier League",
+"date":"Sun, Aug 14",
+"time":"end",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"teams":"Nottm Forest Vs West Hum",
+"hteam":"Nottm",
+"ateam":"West Hum",
+"link":[ { "type": "1080p", 
+"livelink":"https://livestream-2.socialstreaming.tv/live/62f8e5c72c1546001d39f1a7/62f8e5c72c1546001d39f1a7.m3u8"        },
+ { "type": "720p", 
+"livelink":"https://live-ak.vimeocdn.com:443/exp=1660484383~acl=%2F0bbbfa16-9737-4386-b8bd-a73010399799%2F%2A~hmac=8f1a7ef10095b7207cd25d0c55588117a34aaeb2e56adaa43506fb9d8c7b3f4b/0bbbfa16-9737-4386-b8bd-a73010399799/chunklist_b6256000.m3u8" 
+  },
+
+{ "type": "360p", 
+"livelink":"https://c52a36a10d57.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.005990487620.channel.TdBExqxZmpVG.m3u8"
+  }
+,
+{ "type": "SD", 
+"livelink":"https://c52a36a10d57.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.005990487620.channel.TdBExqxZmpVG.m3u8"
+  }
+
+  ]
+  }
+  ]
