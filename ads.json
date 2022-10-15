@@ -14,6 +14,11 @@
      },
 
      {
+       "app_interstitial_url": "https://i.ibb.co/TvmBbDs/FB-IMG-1663467194260.jpg",
+       "app_uri": "http:// URL or Package Name - com.package.name",
+       "app_adType": "interstitial"
+     },
+     {
        "app_interstitial_url": "https://i.imgur.com/BgLsTFu.jpeg",
        "app_uri": "com.thukuma.a2sport",
        "app_adType": "interstitial"
